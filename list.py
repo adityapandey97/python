@@ -1,0 +1,11 @@
+a=input("name")
+b=int(input("marks"))
+c=int(input("rollno."))
+l=[a,b,c]
+print("your name is  ",l[0])
+print("your marks is ",l[1])
+print("your percentage is",l[1])
+print("you rollno.",l[2])
+print(type(l[0]))
+print(type(l[1]))
+print(type(l[2]))
